@@ -30,4 +30,4 @@ Folder contents all files that show be places in any place you need.There severa
 - content = selector to put in pdf file
 - url = path to pdf generator file
 - filename = the name of future pdf file
-- title = <h1> Title before content
+- title = "h1" Title before content
