@@ -1,0 +1,4 @@
+body{padding: 0;margin:0;}
+th{ font-size:12px;text-align:left;}
+td{ font-size:10px;}
+table tr:nth-child(even){background-color: #cccccc;}
